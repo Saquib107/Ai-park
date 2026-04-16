@@ -31,7 +31,7 @@ npm start
 Follow the on-screen instructions for using the application.
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js
+- **Frontend:** Next.js
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
 
